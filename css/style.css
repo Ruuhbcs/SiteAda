@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+  font-family: Open Sans, sans-serif;
+  background-color: #d976f4;
+  color: #ffffff;
+}
+
+h2{
+  color: #f500b4;
+}
+
+.titulo-infancia{
+  color: #04ff9f;
+}
+
+.titulo-juventude{
+  color: #FF9E9E;
+}
+
+.titulo-vidaadulta{
+  color: #ffe36d;
+}
